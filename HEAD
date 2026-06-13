@@ -1,1 +1,4 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 2246770e5ba37143aac652dce22b28453f9cff4f Replit Agent <agent@replit.com> 1780011451 +0000	commit (initial): Initial commit
+2246770e5ba37143aac652dce22b28453f9cff4f 4bae257e1c184e79059de2336d7e78e18cd2230d Replit Agent <agent@replit.com> 1780816338 +0000	commit: Add core features for income and expense tracking
+4bae257e1c184e79059de2336d7e78e18cd2230d 444fd2a689b5504d0e5f33ef4a1cf827813afdf4 Replit Agent <agent@replit.com> 1780816640 +0000	commit: Add a monthly income versus expenses trend chart
+444fd2a689b5504d0e5f33ef4a1cf827813afdf4 16a9804279f8cf6315600c51f74eceefaa48e259 Replit Agent <agent@replit.com> 1780817872 +0000	commit: Published your App
